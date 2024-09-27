@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Crea un nuevo archivo que se llame feature.php, comitealo a GitHub</h1>
+    <p>Nueva línea en feature.php</p>
 </body>
 </html>
