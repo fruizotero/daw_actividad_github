@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Crea un nuevo archivo que se llame feature.php, comitealo a GitHub</h1>
-    <p>Nueva línea en feature.php</p>
+    <h1>Crea un nuevo archivo develop.php</h1>
+    <p>nueva línea en develop</p>
 </body>
 </html>
